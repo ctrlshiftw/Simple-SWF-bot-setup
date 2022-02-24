@@ -1,0 +1,11 @@
+{
+  "prefix": "!",
+  "token": "",
+  "owners": ["YES"],
+  "footer": "owo u pervert",
+
+  "msg": {  
+    "loading": "Just a sec..",
+    "imageNotLoading": "Click here to get the link"
+  }
+}
